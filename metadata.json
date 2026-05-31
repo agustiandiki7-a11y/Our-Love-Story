@@ -1,0 +1,6 @@
+{
+  "name": "Our Love Story",
+  "description": "Rumah digital romantis premium untuk menyimpan album foto, surat cinta, timeline hubungan, playlist lagu, dan bucket list impian bersama pasangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
